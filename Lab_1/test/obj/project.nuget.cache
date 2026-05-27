@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OQZ+UUwN5jg=",
+  "success": true,
+  "projectFilePath": "/home/ihor_tokar/Documents/C#_Projects/Lab_1/test/test.csproj",
+  "expectedPackageFiles": [
+    "/home/ihor_tokar/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.4/microsoft.aspnetcore.app.ref.10.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

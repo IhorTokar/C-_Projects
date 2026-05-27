@@ -1,0 +1,14 @@
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/bin/Debug/net10.0/Lab_5
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/bin/Debug/net10.0/Lab_5.deps.json
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/bin/Debug/net10.0/Lab_5.runtimeconfig.json
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/bin/Debug/net10.0/Lab_5.dll
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/bin/Debug/net10.0/Lab_5.pdb
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.AssemblyInfoInputs.cache
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.AssemblyInfo.cs
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.csproj.CoreCompileInputs.cache
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.dll
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/refint/Lab_5.dll
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.pdb
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.genruntimeconfig.cache
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/ref/Lab_5.dll

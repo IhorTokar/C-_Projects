@@ -1,0 +1,14 @@
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/Lab_4.GeneratedMSBuildEditorConfig.editorconfig
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/Lab_4.AssemblyInfoInputs.cache
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/Lab_4.AssemblyInfo.cs
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/Lab_4.csproj.CoreCompileInputs.cache
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/bin/Debug/net10.0/Lab_4
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/bin/Debug/net10.0/Lab_4.deps.json
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/bin/Debug/net10.0/Lab_4.runtimeconfig.json
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/bin/Debug/net10.0/Lab_4.dll
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/bin/Debug/net10.0/Lab_4.pdb
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/Lab_4.dll
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/refint/Lab_4.dll
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/Lab_4.pdb
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/Lab_4.genruntimeconfig.cache
+/home/ihor_tokar/Documents/C#_Projects/Lab_4/obj/Debug/net10.0/ref/Lab_4.dll
