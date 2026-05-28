@@ -12,3 +12,4 @@
 /home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.pdb
 /home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.genruntimeconfig.cache
 /home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/ref/Lab_5.dll
+/home/ihor_tokar/Documents/C#_Projects/Lab_5/obj/Debug/net10.0/Lab_5.sourcelink.json

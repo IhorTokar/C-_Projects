@@ -3,13 +3,15 @@ using System.Collections.Generic;
 using System.Threading;
 using System.Diagnostics;
 
-public class Task1{
-    private static bool[] isComposite; // Спільний ресурс: масив міток
-    private static List<int> basePrimes; // Спільний ресурс: список фільтрів
+public class Task1
+{
+    private static bool[]? isComposite; // Спільний ресурс: масив міток (nullable ?)
+    private static List<int>? basePrimes; // Спільний ресурс: список фільтрів (nullable ?)
     private static int nextPrimeIndex = 0; // Спільний ресурс: індекс наступного числа
     private static object locker = new object(); // Об'єкт синхронізації
 
-    public static void Run(int n, int m)
+    // Змінено void на double
+    public static double Run(int n, int m)
     {
         Console.WriteLine($"\n--- Завдання 5.4: Паралельний пошук (N={n:N0}, M={m}) ---");
         
@@ -39,6 +41,9 @@ public class Task1{
 
         Console.WriteLine($"✅ Знайдено простих чисел: {count}");
         Console.WriteLine($"⏱ Час виконання: {sw.Elapsed.TotalMilliseconds:F4} мс");
+
+        // ПОВЕРТАЄМО виміряний час для автоматизації таблиці
+        return sw.Elapsed.TotalMilliseconds;
     }
 
     private static void Worker(int n)
@@ -50,7 +55,7 @@ public class Task1{
             // КРИТИЧНА СЕКЦІЯ: беремо наступне просте число безпечно
             lock (locker)
             {
-                if (nextPrimeIndex >= basePrimes.Count) break;
+                if (basePrimes == null || nextPrimeIndex >= basePrimes.Count) break;
                 p = basePrimes[nextPrimeIndex];
                 nextPrimeIndex++;
             }
@@ -58,7 +63,7 @@ public class Task1{
             // Викреслювання всіх кратних числу p, починаючи з p*p
             for (long j = (long)p * p; j <= n; j += p)
             {
-                isComposite[j] = true;
+                if (isComposite != null) isComposite[j] = true;
             }
         }
     }
